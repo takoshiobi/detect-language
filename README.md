@@ -38,3 +38,6 @@ languages, reducing baseline LIGA’s error rate by roughly an order of
 magnitude.
 
 More useful information is [HERE](https://www.mitre.org/sites/default/files/pdf/12_2971.pdf)
+
+1) make bigger words library for swedish 
+2) solve the problem of french/spanish 
