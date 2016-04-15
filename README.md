@@ -3,13 +3,13 @@
 
 *** only for python3+ ***
 
-This is a program which takes your str and returns a language of this.
+This is a program which takes your str and returns a language of this str.
 
-Does not works with short texts.
+Does not works for short texts.
 
 Uses the global list of most common words in every language.
 
-UPD// I'll try to make v2 with dict which uses a dict and compare this global_dict with input (+ modifications for chinese, russian, etc.)
+UPD// I'll try to make v2 with dict which uses a dict and compare this global_dict with input (+ modifications)
 
 You can find text reference in folder "documents".
 
