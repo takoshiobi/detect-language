@@ -1,3 +1,6 @@
+# SHCHERBAKOVA
+# ELELWA-NASULI
+
 import unittest
 
 from test import (short_name, check_spanish, check_french, _nameOf, final_detection, UNKNOWN)
