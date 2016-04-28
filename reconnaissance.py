@@ -1,3 +1,6 @@
+# SHCHERBAKOVA
+# ELELWA-NASULI
+
 import difflib
 from tkinter import *
 
