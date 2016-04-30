@@ -1,5 +1,4 @@
 # SHCHERBAKOVA
-# ELELWA-NASULI
 
 import unittest
 
